@@ -1,0 +1,14 @@
+2025-03-26 18:41:12.613 | INFO     | main:predict_diabetes:42 - Recibiendo predicción para características: age=0.038076 sex=0.05068 bmi=0.061696 bp=0.021872 s1=-0.044223 s2=-0.034821 s3=-0.043401 s4=-0.002592 s5=0.019908 s6=-0.017646
+2025-03-26 18:41:12.621 | INFO     | main:predict_diabetes:61 - Predicción exitosa: {'prediction': 1, 'probability': 0.94, 'message': 'Riesgo alto de diabetes'}
+2025-03-26 18:42:28.968 | INFO     | main:predict_diabetes:42 - Recibiendo predicción para características: age=0.038076 sex=0.05068 bmi=0.061696 bp=0.021872 s1=-0.044223 s2=-0.034821 s3=-0.043401 s4=-0.002592 s5=0.019908 s6=-0.017646
+2025-03-26 18:42:28.978 | INFO     | main:predict_diabetes:61 - Predicción exitosa: {'prediction': 1, 'probability': 0.94, 'message': 'Riesgo alto de diabetes'}
+2025-03-26 18:43:58.566 | INFO     | main:predict_diabetes:42 - Recibiendo predicción para características: age=0.038076 sex=0.05068 bmi=0.061696 bp=0.021872 s1=-0.044223 s2=-0.034821 s3=-0.043401 s4=-0.002592 s5=0.019908 s6=-0.017646
+2025-03-26 18:43:58.575 | INFO     | main:predict_diabetes:61 - Predicción exitosa: {'prediction': 1, 'probability': 0.65, 'message': 'Riesgo alto de diabetes'}
+2025-03-26 18:46:33.436 | INFO     | main:predict_diabetes:42 - Recibiendo predicción para características: age=0.05068 sex=-0.044642 bmi=0.05068 bp=0.05068 s1=0.05068 s2=0.05068 s3=0.05068 s4=0.05068 s5=0.05068 s6=0.05068
+2025-03-26 18:46:33.446 | INFO     | main:predict_diabetes:61 - Predicción exitosa: {'prediction': 0, 'probability': 0.48, 'message': 'Riesgo bajo de diabetes'}
+2025-03-26 18:46:35.732 | INFO     | main:predict_diabetes:42 - Recibiendo predicción para características: age=0.05068 sex=-0.044642 bmi=0.05068 bp=0.05068 s1=0.05068 s2=0.05068 s3=0.05068 s4=0.05068 s5=0.05068 s6=0.05068
+2025-03-26 18:46:35.742 | INFO     | main:predict_diabetes:61 - Predicción exitosa: {'prediction': 0, 'probability': 0.48, 'message': 'Riesgo bajo de diabetes'}
+2025-03-26 18:46:36.625 | INFO     | main:predict_diabetes:42 - Recibiendo predicción para características: age=0.05068 sex=-0.044642 bmi=0.05068 bp=0.05068 s1=0.05068 s2=0.05068 s3=0.05068 s4=0.05068 s5=0.05068 s6=0.05068
+2025-03-26 18:46:36.634 | INFO     | main:predict_diabetes:61 - Predicción exitosa: {'prediction': 0, 'probability': 0.48, 'message': 'Riesgo bajo de diabetes'}
+2025-03-26 18:46:37.397 | INFO     | main:predict_diabetes:42 - Recibiendo predicción para características: age=0.05068 sex=-0.044642 bmi=0.05068 bp=0.05068 s1=0.05068 s2=0.05068 s3=0.05068 s4=0.05068 s5=0.05068 s6=0.05068
+2025-03-26 18:46:37.408 | INFO     | main:predict_diabetes:61 - Predicción exitosa: {'prediction': 0, 'probability': 0.48, 'message': 'Riesgo bajo de diabetes'}
